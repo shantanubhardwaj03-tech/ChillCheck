@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/docs.js": { "maxDuration": 20 },
+    "api/sections.js": { "maxDuration": 30, "memory": 1024 }
+  }
+}
